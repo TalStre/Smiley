@@ -18,8 +18,13 @@ internal static class Smiley
         Console.WriteLine(":-(");
     }
 
-    public static void Borred()
+    public static void Bored()
     {
         Console.WriteLine(":-|");
+    }
+
+    public static void Crazy()
+    {
+        Console.WriteLine("XD");
     }
 }

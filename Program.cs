@@ -8,6 +8,7 @@ internal class Program
 
         Smiley.Happy();
         Smiley.Sad();
-        Smiley.Borred();
+        Smiley.Bored();
+        Smiley.Crazy();
     }
 }
