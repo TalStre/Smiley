@@ -25,6 +25,6 @@ internal static class Smiley
 
     public static void Crazy()
     {
-        Console.WriteLine("XD");
+        Console.WriteLine(":-*");
     }
 }
