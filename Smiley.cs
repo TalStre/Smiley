@@ -6,10 +6,15 @@ using System.Threading.Tasks;
 
 namespace Smilies;
 
-internal static class Class
+internal static class Smiley
 {
     public static void Happy()
     {
         Console.WriteLine(":-)");
+    }
+
+    public static void Sad()
+    {
+        Console.WriteLine(":-(");
     }
 }

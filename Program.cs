@@ -7,5 +7,6 @@ internal class Program
         Console.WriteLine("Smilies");
 
         Smiley.Happy();
+        Smiley.Sad();
     }
 }
